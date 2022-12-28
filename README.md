@@ -1,15 +1,22 @@
 # The Effects of Climate Change on Northeastern Forests
 
-## Overview
-This project is a simple attempt to asses how rising annual temperatures have impacted the species composition of forests in Maine. 
+This project is a simple attempt to analyze how rising annual temperatures have impacted the species composition of forests in Maine. 
 
 ## Methods
-First, I explored how mean annual temperatures have changed in Maine over the past fifty years. Then, I analyzed relationships between annual mean temperature and species prevalence on a county level for twelve regional tree speices. Finally, for the species shown to be most sensitive to temperature, I mapped the changes in their range within Maine from 1995 to the present. 
+* Explore how mean annual temperatures have changed in Maine over the past fifty years. 
+* Analyze relationships between annual mean temperature and tree species proportion on a county level for twelve regional tree species. 
+* For the species shown to be most sensitive to temperature, map the changes in their range within Maine from 1995 to the present. 
 
 ## Data 
-I used a gridMET data layer, accessed via Climate Engine, representing mean annual air temperature from 1979-present at 4 km spatial resolution. I also obtained county level temperature data from NOAA National Centers of Environmental Information. 
-
-I accessed forest species composition data using the U.S. Forest Inventory online Evalidator tool. I downloaded the estimated acreage of each forest type by county. 
+* Temperature data:
+    * Gridded Surface Meteorological Dataset (gridMET), accessed via Climate Engine:  
+        * mean annual air temperature from 1979-present at 4 km spatial resolution. 
+    * NOAA National Centers of Environmental Information
+        * Mean annual air temperature for each county from 1970-present.  
+* Forest cover data:
+    * U.S. Forest Service Forest Inventory and Analysis Data
+        * Estimated acreage of tree species per county.
+        * Inventory downloaded from 1995 and 2021.
 
 ## Results
 This analysis clearly visualizes how mean annual air temperatures in Maine have increased over the past 40-50 years. The maps below depict the mean temperatures at a 4 km spatial resolution for the years 1980, 1990, 2000, 2010, and 2020. The line graph shows annual mean temperature in each of Maine's sixteen counties from 1970 to the present. 
