@@ -9,12 +9,12 @@ This project is a simple attempt to analyze how rising annual temperatures have 
 
 ## Data 
 * Temperature data:
-    * Gridded Surface Meteorological Dataset (gridMET), accessed via Climate Engine:  
+    * Gridded Surface Meteorological Dataset (gridMET), accessed via [Climate Engine](https://app.climateengine.com/climateEngine):  
         * mean annual air temperature from 1979-present at 4 km spatial resolution. 
-    * NOAA National Centers of Environmental Information
+    * [NOAA National Centers of Environmental Information](https://www.ncei.noaa.gov/):
         * Mean annual air temperature for each county from 1970-present.  
 * Forest cover data:
-    * U.S. Forest Service Forest Inventory and Analysis Data
+    * [U.S. Forest Service Forest Inventory and Analysis Data](https://apps.fs.usda.gov/fiadb-api/evalidator):
         * Estimated acreage of tree species per county.
         * Inventory downloaded from 1995 and 2021.
 
