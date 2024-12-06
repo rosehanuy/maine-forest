@@ -1,6 +1,6 @@
 # The Effects of Climate Change on Northeastern Forests
 
-This project is a simple attempt to analyze how rising annual temperatures have impacted the species composition of forests in Maine. 
+This project analyzes how rising annual temperatures have impacted the species composition of forests in Maine. 
 
 ## Methods
 * Explore how mean annual temperatures have changed in Maine over the past fifty years. 
