@@ -1,4 +1,4 @@
-# The Effects of Climate Change on Northeastern Forests
+# Climate-induced Changes in Northeastern Forest Composition
 
 This project analyzes how rising annual temperatures have impacted the species composition of forests in Maine. 
 
