@@ -45,4 +45,4 @@ Meanwhile, warm-adapted oak and eastern white pine have been gradually increasin
 
 ![oak](/images/Oak_choropleth.png)
 
-This brief analysis illustrates how the known warming climate in Maine has already resulted in dramatic changes in the species composition of its forests. Temperate species are becoming more prevalent in the state, while boreal species are 'migrating' northward or disappearing all together. 
+This brief analysis illustrates how the known warming climate in Maine has already resulted in changes in the species composition of its forests. Some temperate species are becoming more prevalent in the state, while some boreal species are 'migrating' northward or disappearing all together. 
