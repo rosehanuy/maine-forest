@@ -19,7 +19,7 @@ This project analyzes how rising annual temperatures have impacted the species c
         * Inventory downloaded from 1995 and 2021.
 
 ## Results
-This analysis clearly visualizes how mean annual air temperatures in Maine have increased over the past 40-50 years. The maps below depict the mean temperatures at a 4 km spatial resolution for the years 1980, 1990, 2000, 2010, and 2020. The line graph shows annual mean temperature in each of Maine's sixteen counties from 1970 to the present. 
+This analysis visualizes how mean annual air temperatures in Maine have increased over the past 40-50 years. The maps below depict the mean temperatures at a 4 km spatial resolution for the years 1980, 1990, 2000, 2010, and 2020. The line graph shows annual mean temperature in each of Maine's sixteen counties from 1970 to the present. 
 
 ![gridMet map](/images/maine_temp_change.png)
 
